@@ -28,11 +28,3 @@ saves incoming events to **MongoDB**, and displays them in a **minimal UI**.
     "timestamp": "ISODate"
   }
 
-webhook-repo/
-├── app.py             # Flask server
-├── templates/
-│   └── index.html     # UI page
-├── static/
-│   └── main.js        # JS polling logic
-├── requirements.txt
-└── .env

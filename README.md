@@ -1,4 +1,4 @@
-# 📡 Webhook Receiver — Developer Assessment Task
+# 📡 Webhook Receiver
 
 This is the **webhook-repo** for the developer assessment.  
 It acts as the **GitHub webhook receiver** for the `action-repo`,  

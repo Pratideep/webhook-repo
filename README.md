@@ -28,3 +28,7 @@ saves incoming events to **MongoDB**, and displays them in a **minimal UI**.
     "timestamp": "ISODate"
   }
 
+
+Below is an example of how the updates look in the browser:
+
+![Webhook UI](./screenshot.png)
